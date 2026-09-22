@@ -1,6 +1,6 @@
 # Olesia Trofymenko — Data Analyst
 
-Junior Data Analyst with a background in Marketing and a focus on turning data into actionable business insights.
+Data Analyst with a background in Marketing and a focus on turning data into actionable business insights.
 
 ### 🛠️ Skills
 
